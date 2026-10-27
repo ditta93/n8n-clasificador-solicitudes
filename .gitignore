@@ -1,0 +1,4 @@
+.env
+*.key
+n8n_data/
+node_modules/
